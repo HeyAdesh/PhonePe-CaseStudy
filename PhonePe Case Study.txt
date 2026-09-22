@@ -1,0 +1,37 @@
+PhonePe Case Study 
+File:PhonePe Logo.svg - Wikimedia Commons
+
+Background 
+
+PhonePe is one of India's leading digital payments platforms with over 500 million registered users. The product team has identified a new opportunity: a bill-splitting feature for groups, aimed at urban users who regularly share expenses for rent, trips, and dining. 
+
+The feature has been greenlit. Now the real work begins. Before any design or development starts, the team needs to get aligned on what exactly is being built and why. 
+
+You have been brought in to lead this process. 
+
+What the Team Is Walking In With 
+
+Three different teams have three different ideas of what "bill splitting" means for PhonePe users 
+The compliance team has flagged unresolved questions around UPI transaction limits when splitting across multiple users 
+No one has written down what problem this feature is actually solving or for whom 
+A junior PM has already started writing user stories before any requirements discussion has happened 
+Engineering wants a scope boundary before sprint planning begins next week 
+There is energy and intent. What is missing is alignment and structure. 
+
+ 
+
+Your Task 
+
+Your first job is to frame the problem properly before anyone writes a single requirement. What is the real problem PhonePe users face when splitting bills today? Who specifically faces it? Use a structured framework to write a crisp problem statement and support it with a jobs-to-be-done perspective. 
+
+Once the problem is framed, translate it into requirements. Separate what the business needs from what the product must do. Write three user stories for this feature. For each one, define the acceptance criteria that would tell engineering exactly when that story is done. 
+
+The junior PM has already drafted two user stories. Both have problems. Read them carefully and identify what is wrong before rewriting them. 
+
+Story 1 As a user, I want to split bills so that it is easier. 
+
+Story 2 As a PhonePe user, I want the app to automatically calculate each person's share, send payment requests to all group members at once, allow partial payments, send reminders to people who have not paid, show a settlement summary, and sync with my UPI transaction history so that managing group expenses is seamless. 
+
+Evaluate both against a quality framework. Then rewrite each one so it is ready for development. 
+
+Finally, the stakeholders from product, engineering, design, and compliance are all in the room. Define the scope for this feature's first release. What is in, what is out, and how did you decide? 
